@@ -1,0 +1,108 @@
+.carousel-item img{
+    height: 400px;
+
+}
+
+.navbar{
+    background-color: #fdfdfd ;
+    
+    
+}
+
+.navbar a {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 29px;
+    color: black;
+    opacity: 100%;
+
+}
+
+/* Modifica espaçamento entre os item no menu */
+.nav-item{
+    margin-left: 25px;
+}
+
+
+.navbar a:hover{
+    color: #838383;
+}
+
+.logo img {
+    height: 10%;
+    width: 100px;
+}
+
+.navbar-toggler{
+    background-color: black;
+}
+
+header{
+    padding-bottom: 2px;
+    
+
+}
+
+.rodape{
+    background-color: #fdfdfd ;
+    color: black;
+    padding-top: 2px;
+    margin-bottom: 0%;
+    width: 100%;
+    position: absolute;
+
+}
+
+.rodape p:hover{
+    color: #838383;
+}
+
+.rodape a{
+    font-size: 25px;
+    color: black;
+}
+
+.rodape a:hover{
+    color: #838383;
+}
+
+
+.carrosel{
+    width: 100%;
+}
+
+
+.divisoria img{
+    width: 33%;
+    height: 300px;
+    margin-left: 10%;
+    margin-top: 10%;
+    border: 2px groove black;
+    text-align: left;
+
+}
+
+.mensagem{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 7%;
+}
+
+.divisoria p{
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: black;
+}
+
+.ops{
+    width: 100%;
+    text-align: center;
+    font-size: 350px;
+    padding-top: 10%;
+    padding-bottom: 10%; 
+}
+
+body{
+    background-color: #e7e7e7;
+}
